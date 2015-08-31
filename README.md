@@ -12,8 +12,8 @@ new GalleryImages().getGalleryImages(this, FolderActivity.this);
 Step 3: In the 2 overrided methods you will the gallery in differnt formates as described below.
 
 
-@Override
-	public void getGalleryWithFolder(ArrayList<Gallery> gal) {
+		@Override
+		public void getGalleryWithFolder(ArrayList<Gallery> gal) {
 		// TODO Auto-generated method stub
 		
 		// the below line will give the gallery folder name of
@@ -21,14 +21,14 @@ Step 3: In the 2 overrided methods you will the gallery in differnt formates as 
 		
 		// by this you can get the images of that folder
 		gal.get(position).getImages().get(position).getImagePath()
-	}
-	
-@Override
-	public void getGalleryImages(ArrayList<String> images) {
+		}
+		
+		@Override
+		public void getGalleryImages(ArrayList<String> images) {
 		// TODO Auto-generated method stub
 		
 		// By parameter of this method you will get path of all the images of gallery 
-	}
+		}
 	
 	
 	
