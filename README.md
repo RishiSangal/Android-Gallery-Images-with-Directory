@@ -1,6 +1,6 @@
 # Andrid-Gallery-with-Directory
 This is android library with provide the images of the gallery of android phone with seperate folder name and images of that folder
-![Alt text](https://github.com/RishiSangal/Andrid-Gallery-with-Directory/tree/master/GalleryWithDirectory/image1.png "Optional title")
+![Alt text](https://raw.github.com/RishiSangal/Andrid-Gallery-with-Directory/tree/master/GalleryWithDirectory/image1.png "Optional title")
 
 Step 1 : implement class GalleryDescription by doing this error will come up on the class name implement the methods
 
