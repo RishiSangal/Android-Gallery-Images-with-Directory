@@ -3,11 +3,11 @@ This is android library with provide the images of the gallery of android phone 
 
 Step 1 : implement class GalleryDescription by doing this error will come up on the class name implement the methods
 
-class MainActivity extends Activity implements GalleryDescription
+		class MainActivity extends Activity implements GalleryDescription
 
 Step 2 : Now in your onCreate write the following code
 
-new GalleryImages().getGalleryImages(this, FolderActivity.this);
+		new GalleryImages().getGalleryImages(this, FolderActivity.this);
 
 Step 3: In the 2 overrided methods you will the gallery in differnt formates as described below.
 
