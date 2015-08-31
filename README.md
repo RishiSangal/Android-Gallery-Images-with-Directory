@@ -36,8 +36,11 @@ Step 3: In the 2 overrided methods you will the gallery in differnt formates as 
 		// By parameter of this method you will get path of all the images of gallery 
 		}
 	
+As i have used Universal Image Loader to display the images you can change to your library
+
 	
 License
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
